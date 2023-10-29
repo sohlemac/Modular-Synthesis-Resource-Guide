@@ -24,13 +24,9 @@ Modular synthesis is an extremely rewarding, if somewhat esoteric, hobby, and I 
 
 -Eik
 
-
-
 ---
 
 # (Imagined) Frequently Asked Questions
-
-
 
 ### Why not a Wiki?
 
@@ -42,19 +38,13 @@ For instance, Behringer has a less-than-sterling reputation among a good chunk o
 
 That said, this is hosted on my GitHub repo, so I am Benevolent Dictator by default; if a resource happens to be hosted next to less-than-stellar content (political extremism, hate speech, porn, etc) I am more than willing to keep that resource from getting additional exposure. If you don't like it, please fork this document and maintain it yourself.
 
-
-
 ### I am a musician/content creator/reviewer/artist/synthmaker that works extensively with modular synthesizers. Can I add my projects to this page?
 
-As long as your content is focused primarily on modular synthesis in some form, we would love link to your work! This document started off by splitting Youtube, Soundcloud, etc. into their own sections; if these get too unwieldly we may need some further organization, but that's a future me problem. 
-
-
+As long as your content is focused primarily on modular synthesis in some form, we would love link to your work! 
 
 ### i want to add content but am not sure where to add it. Can I make a new section?
 
 Yes, with the caveat that your Benevolent Dictator might adjust your link categorization to better fit within the document. The important thing is your content is linked correctly; correct categorization is secondary and mostly my problem. Please, add your content!
-
-
 
 ### Hey, Resource XYZ isn't listed! What gives?
 
@@ -64,13 +54,9 @@ If you are unfamiliar with GitHub, it is a site used by many, many, many project
 
 Learning how Git and Github work is beyond the scope of this document, but plenty of resources are available online.
 
-
-
 ---
 
 # YouTube Channels
-
-
 
 [Mark Booth](https://www.youtube.com/@markbooth)
 
@@ -164,15 +150,9 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 [Earth Modular Society ](https://www.youtube.com/c/earthmodularsociety)
 
-
-
 ---
 
 # Discord Communities
-
-
-
-
 
 [Golden Shrimp Guild](https://gsg.live/)
 
@@ -180,13 +160,9 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 [VCV Rack Community Discord](https://discord.gg/wxa89Mh)
 
-
-
 ---
 
 # Forums and Subreddits
-
-
 
 [MOD WIGGLER Forums](https://www.modwiggler.com/forum/index.php)
 
@@ -199,8 +175,6 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 ---
 
 # Books
-
-
 
 [Fred Welsh's Synthesizer Cookbook](http://synthesizer-cookbook.com/)
 
@@ -216,65 +190,61 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 [Sound Synthesis and Sampling - Martin Russ ](https://www.routledge.com/Sound-Synthesis-and-Sampling/Russ/p/book/9780240521053)
 
-
-
 ---
 
 # Interviews
 
-
-
 [Interview with Danjel van Tijn from intellijel](https://www.macprovideo.com/article/interview/interview-danjel-van-tijn-from-eurorack-synth-maker-intellijel)
-
-
 
 ---
 
 # Documentaries
 
-
-
-
+[I Dream of Wires (2014) - IMDb](https://www.imdb.com/title/tt3636334/)
 
 
 
 ---
 
-# Module Manuals
-
-
-
-
+# Module Manuals/Schematics/DIY
 
 ---
 
 # Equipment Manufacturers
 
-
-
-
-
 ---
 
-# Philosophy
+# Philosophy/Writings/Opinions
 
-
-
-[An excellent overview and introduction to the hobby](https://www.modularbias.com/learn/read-designing-your-modular-synthesizer-mother-dessicant/), by Mother Dessicant.
-
-
+[An excellent overview and introduction to the hobby by Mother Dessicant](https://www.modularbias.com/learn/read-designing-your-modular-synthesizer-mother-dessicant/)
 
 ---
 
 # Websites About Modular Synthesis
 
+[Synth Junky](https://www.synthjunky.com/)
 
+[ModularGrid](https://www.modulargrid.net/)
+
+[Eurorack, All Module, Case & DIY Project Synth News At A Glance](https://synthanatomy.com/category/music-tech-news/eurorack)
 
 
 
 ---
 
 # Vendors/Retail
+
+[Eurorack + Modular Synthesizers - Perfect Circuit](https://www.perfectcircuit.com/eurorack-modular-synths.html)
+
+[Eurorack & Modular Synthesizers | Sweetwater](https://www.sweetwater.com/shop/keyboards-synthesizers/eurorack-modular-synthesizers/)
+
+[Eurorack Modules | Gear4music](https://www.gear4music.com/us/en/synthesizer/Modular/Eurorack-Modules)
+
+[Synthesizers For Sale - New & Used Synths | Reverb](https://reverb.com/c/keyboards-and-synths/synths)
+
+[Detroit Modular](https://www.detroitmodular.com/)
+
+[Patchwerks](https://www.patchwerks.com/)
 
 
 
@@ -284,6 +254,15 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Software
 
+[VCV Rack](https://vcvrack.com/)
+
+[Bitwig Studio](https://www.bitwig.com/overview/)
+
+[Audacity](https://www.audacityteam.org/)
+
+
+
+
 
 
 
@@ -291,7 +270,6 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Miscellaneous
 
-
-
+[Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
 
 
