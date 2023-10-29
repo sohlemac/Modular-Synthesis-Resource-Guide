@@ -1,5 +1,7 @@
 The Modular Synthesis Resource Guide
 
+poopoo peepee
+
 ---
 
 # Introduction
