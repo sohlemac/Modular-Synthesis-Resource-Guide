@@ -30,7 +30,7 @@ Modular synthesis is an extremely rewarding, if somewhat esoteric, hobby, and I 
 
 # (Imagined) Frequently Asked Questions
 
----
+
 
 ### Why not a Wiki?
 
@@ -70,7 +70,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # YouTube Channels
 
----
+
 
 [Mark Booth](https://www.youtube.com/@markbooth)
 
@@ -170,7 +170,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Discord Communities
 
----
+
 
 
 
@@ -186,7 +186,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Forums and Subreddits
 
----
+
 
 [MOD WIGGLER Forums](https://www.modwiggler.com/forum/index.php)
 
@@ -200,7 +200,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Books
 
----
+
 
 [Fred Welsh's Synthesizer Cookbook](http://synthesizer-cookbook.com/)
 
@@ -222,7 +222,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Interviews
 
----
+
 
 [Interview with Danjel van Tijn from intellijel](https://www.macprovideo.com/article/interview/interview-danjel-van-tijn-from-eurorack-synth-maker-intellijel)
 
@@ -232,7 +232,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Documentaries
 
----
+
 
 
 
@@ -242,7 +242,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Module Manuals
 
----
+
 
 
 
@@ -250,7 +250,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Equipment Manufacturers
 
----
+
 
 
 
@@ -258,7 +258,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Philosophy
 
----
+
 
 [An excellent overview and introduction to the hobby](https://www.modularbias.com/learn/read-designing-your-modular-synthesizer-mother-dessicant/), by Mother Dessicant.
 
@@ -268,7 +268,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Websites About Modular Synthesis
 
----
+
 
 
 
@@ -276,7 +276,7 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Vendors/Retail
 
----
+
 
 
 
@@ -284,7 +284,6 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Software
 
----
 
 
 
@@ -292,7 +291,6 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 
 # Miscellaneous
 
----
 
 
 
